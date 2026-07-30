@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-rtytyfgggthgj
-=======
-fgggthgj
->>>>>>> ff5e74f4bf2982e08d536c98197077cf2f9411ee
+modificacion en new
